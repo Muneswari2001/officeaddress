@@ -1,2 +1,0 @@
-# emp salary
-for cmp
